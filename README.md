@@ -17,8 +17,7 @@ A collection of bad URLs to use for moderation purposes
 
 ## Contributors
 
-Thanks To contributors
-
+Thanks to everyone who contributed
 <a href="https://github.com/elbkr/bad-websites/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=elbkr/bad-websites" />
 </a>
